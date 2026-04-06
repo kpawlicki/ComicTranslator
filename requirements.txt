@@ -1,0 +1,5 @@
+easyocr>=1.7.2
+deep-translator>=1.11.4
+Pillow>=12.2.0
+opencv-python>=4.13.0.92
+numpy>=2.4.4
